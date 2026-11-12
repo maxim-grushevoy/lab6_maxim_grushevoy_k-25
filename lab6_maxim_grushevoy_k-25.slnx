@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab6_maxim_grushevoy_k-25/lab6_maxim_grushevoy_k-25.vcxproj" />
+</Solution>
